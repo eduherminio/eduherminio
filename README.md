@@ -1,6 +1,4 @@
-<center>🎅 December update 🎅</center>
-
-[Advent of Code 2020](https://adventofcode.com/) is here!
+🎅 **[Advent of Code 2020](https://adventofcode.com/) is here!** 🎅
 
 Related repositories:
 
