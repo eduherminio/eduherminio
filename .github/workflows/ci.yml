@@ -16,4 +16,4 @@ jobs:
           paths: "**/*.md"
           markdown: true
           retry: true
-          linksToSkip:
+          linksToSkip: "https://github.com/eduherminio/Google_Code_Jam_2018, https://github.com/eduherminio/29_Catalysts_Coding_Contest"
