@@ -6,6 +6,17 @@ But it is not this day! This day we [~~fight~~](https://youtu.be/EXGUNvIFTQw) sh
 
 ---
 
+#### Currently working on
+
+- [**Lynx**](https://github.com/lynx-chess/Lynx) [C#]: my very first chess engine, which almost beats me already!
+- [**Lynx_BOT**](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT).
+
+<p align="center">
+  <a href="https://lichess.org/?user=lynx_bot#friend">👉 <b>Play Lynx on Lichess!</b> 👈</a>
+</p>
+
+---
+
 Here's some of the code that can be found in this profile (you're welcome, my future self):
 
 #### General purpose libraries
