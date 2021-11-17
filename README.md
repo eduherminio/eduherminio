@@ -31,6 +31,7 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 
 - [AoCHelper](https://github.com/eduherminio/AoCHelper) [C#]: support library for solving AoC puzzles.
 - [AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) [C#]: template repository for solving AoC puzzles.
+- [AoC2021](https://github.com/eduherminio/AoC2021) [C#]: AoC 2021 solutions.
 - [AoC2020](https://github.com/eduherminio/AoC2020) [C#]: AoC 2020 solutions.
 - [AoC2019](https://github.com/eduherminio/AoC2019) [C#]: AoC 2019 solutions.
 - [AoC2018](https://github.com/eduherminio/advent-of-code-2018) [C#]: AoC 2018 solutions.
@@ -38,6 +39,7 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 
 #### Competitive programming
 
+- [35_Catalysts_Coding_Contest](https://github.com/eduherminio/35_Catalysts_Coding_Contest) [C#]: contest solutions.
 - [34_Catalysts_Coding_Contest](https://github.com/eduherminio/34_Catalysts_Coding_Contest) [C#]: contest solutions.
 - [33_Catalysts_Coding_Contest](https://github.com/eduherminio/33_Catalysts_Coding_Contest) [C#]: contest solutions.
 - _[29_Catalysts_Coding_Contest](https://github.com/eduherminio/29_Catalysts_Coding_Contest)_ [C#]: contest solutions.
