@@ -10,15 +10,15 @@ But it is not this day! This day we [~~fight~~](https://youtu.be/EXGUNvIFTQw) sh
 
 🎅 [Advent of Code](https://adventofcode.com/)
 
-- [AoCHelper](https://github.com/eduherminio/AoCHelper): support library for solving AoC puzzles
+- [**AoCHelper**](https://github.com/eduherminio/AoCHelper): support library for solving AoC puzzles
 - [AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template): template repository for solving AoC puzzles
 - [AoC2021](https://github.com/eduherminio/AoC2021): AoC 2021 solutions
 
 ♟ Lynx chess engine
 
 - [**Lynx**](https://github.com/lynx-chess/Lynx): my very first chess engine, which ~~almost~~ beats me already!
-- [**Lynx_BOT**](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT)
-- [**lichess-challenger**](https://github.com/lynx-chess/lichess-challenger): a CLI tool to challenge other chess engines in [lichess.org](https://lichess.org)
+- [Lynx_BOT](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT)
+- [lichess-challenger](https://github.com/lynx-chess/lichess-challenger): a CLI tool to challenge other chess engines in [lichess.org](https://lichess.org)
 
 <p align="center">
   <a href="https://lichess.org/?user=lynx_bot#friend">👉 <b>Play Lynx on Lichess!</b> 👈</a>
@@ -36,9 +36,9 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 
 #### ♟ Chess
 
-- [**Lynx**](https://github.com/lynx-chess/Lynx) [C#]: my very first chess engine, which ~~almost~~ beats me already!
-- [**Lynx_BOT**](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT)
-- [**lichess-challenger**](https://github.com/lynx-chess/lichess-challenger) [C#]: a CLI tool to challenge other chess engines in [lichess.org](https://lichess.org)
+- [Lynx](https://github.com/lynx-chess/Lynx) [C#]: my very first chess engine, which ~~almost~~ beats me already!
+- [Lynx_BOT](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT)
+- [lichess-challenger](https://github.com/lynx-chess/lichess-challenger) [C#]: a CLI tool to challenge other chess engines in [lichess.org](https://lichess.org)
 - [LichessTournamentAggregator](https://github.com/eduherminio/LichessTournamentAggregator) [C#]: command line application that aggregates results of multiple [lichess.org](https://lichess.org) tournaments
 - [ChessComTournamentAggregator](https://github.com/eduherminio/ChessComTournamentAggregator) [C#]: command line application that aggregates results of multiple [chess.com](https://chess.com) tournaments
 
