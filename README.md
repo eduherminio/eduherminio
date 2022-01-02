@@ -6,29 +6,13 @@ But it is not this day! This day we [~~fight~~](https://youtu.be/EXGUNvIFTQw) sh
 
 ---
 
-#### Currently working on
-
-🎅 [Advent of Code](https://adventofcode.com/)
-
-- [**AoCHelper**](https://github.com/eduherminio/AoCHelper): support library for solving AoC puzzles
-- [AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template): template repository for solving AoC puzzles
-- [AoC2021](https://github.com/eduherminio/AoC2021): AoC 2021 solutions
-
-♟ Lynx chess engine
-
-- [**Lynx**](https://github.com/lynx-chess/Lynx): my very first chess engine, which ~~almost~~ beats me already!
-- [Lynx_BOT](https://github.com/lynx-chess/Lynx_BOT): an adapter to make Lynx play in [lichess.org](https://lichess.org/@/Lynx_BOT)
-- [lichess-challenger](https://github.com/lynx-chess/lichess-challenger): a CLI tool to challenge other chess engines in [lichess.org](https://lichess.org)
-
-<p align="center">
-  <a href="https://lichess.org/?user=lynx_bot#friend">👉 <b>Play Lynx on Lichess!</b> 👈</a>
-</p>
+#### Currently working on:
 
 ---
 
 Here's some of the code that can be found in this profile (you're welcome, my future self):
 
-#### General purpose libraries
+#### 📚 General purpose libraries
 
 - [FileParser](https://github.com/eduherminio/FileParser) [C#]: a file... parser
 - [SheepTools](https://github.com/eduherminio/SheepTools) [C#]: general-purpose toolbox library
@@ -42,6 +26,10 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 - [LichessTournamentAggregator](https://github.com/eduherminio/LichessTournamentAggregator) [C#]: command line application that aggregates results of multiple [lichess.org](https://lichess.org) tournaments
 - [ChessComTournamentAggregator](https://github.com/eduherminio/ChessComTournamentAggregator) [C#]: command line application that aggregates results of multiple [chess.com](https://chess.com) tournaments
 
+<p align="center">
+  <a href="https://lichess.org/?user=lynx_bot#friend">👉 <b>Play Lynx on Lichess!</b> 👈</a>
+</p>
+
 #### 🎅 [Advent of Code](https://adventofcode.com/)
 
 - [AoCHelper](https://github.com/eduherminio/AoCHelper) [C#]: support library for solving AoC puzzles
@@ -52,7 +40,7 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 - [AoC2018](https://github.com/eduherminio/advent-of-code-2018) [C#]: AoC 2018 solutions
 - [AoC2015](https://github.com/eduherminio/AoC2015) [C#]: AoC 2015 solutions
 
-#### Competitive programming
+#### 🥊 Competitive programming
 
 - [35_Catalysts_Coding_Contest](https://github.com/eduherminio/35_Catalysts_Coding_Contest) [C#]: contest solutions
 - [34_Catalysts_Coding_Contest](https://github.com/eduherminio/34_Catalysts_Coding_Contest) [C#]: contest solutions
