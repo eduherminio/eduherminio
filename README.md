@@ -6,10 +6,6 @@ But it is not this day! This day we [~~fight~~](https://youtu.be/EXGUNvIFTQw) sh
 
 ---
 
-#### Currently working on:
-
----
-
 Here's some of the code that can be found in this profile (you're welcome, my future self):
 
 <details>
@@ -53,6 +49,7 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 <summary><strong>🥊 Competitive programming</strong></summary>
 <br/>
 
+- [36_Catalysts_Coding_Contest](https://github.com/eduherminio/36_Catalysts_Coding_Contest) [C#]: contest solutions
 - [35_Catalysts_Coding_Contest](https://github.com/eduherminio/35_Catalysts_Coding_Contest) [C#]: contest solutions
 - [34_Catalysts_Coding_Contest](https://github.com/eduherminio/34_Catalysts_Coding_Contest) [C#]: contest solutions
 - [33_Catalysts_Coding_Contest](https://github.com/eduherminio/33_Catalysts_Coding_Contest) [C#]: contest solutions
