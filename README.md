@@ -38,6 +38,7 @@ Here's some of the code that can be found in this profile (you're welcome, my fu
 
 - [AoCHelper](https://github.com/eduherminio/AoCHelper) [C#]: support library for solving AoC puzzles
 - [AdventOfCode.Template](https://github.com/eduherminio/AdventOfCode.Template) [C#]: template repository for solving AoC puzzles
+- [AoC2022](https://github.com/eduherminio/AoC2022) [C#]: AoC 2022 solutions
 - [AoC2021](https://github.com/eduherminio/AoC2021) [C#]: AoC 2021 solutions
 - [AoC2020](https://github.com/eduherminio/AoC2020) [C#]: AoC 2020 solutions
 - [AoC2019](https://github.com/eduherminio/AoC2019) [C#]: AoC 2019 solutions
